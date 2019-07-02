@@ -9,6 +9,7 @@ config.app = Flask(__name__)
 config.app.config['UPLOAD_FOLDER'] = os.getenv("UPLOAD_FOLDER")
 
 # Import api modules (Set import always add a new api service)
+import infra.http.api.base
 import infra.http.api.echo
 
 
