@@ -29,7 +29,7 @@ steps:
   # The displayName is shows in the pipeline UI when a build runs
   displayName: 'Install Dependencies'
 
-- #task: ArchiveFiles@2
+#- task: ArchiveFiles@2
   #inputs:
   #  rootFolderOrFile: '$(Build.SourcesDirectory)'
   #  includeRootFolder: false
@@ -38,7 +38,7 @@ steps:
   #  replaceExistingArchive: true
   #  verbose: # Optional
   #
-- #task: AzureRMWebAppDeployment@4
+#- task: AzureRMWebAppDeployment@4
   #displayName: Azure App Service Deploy
   #inputs:
   #  appType: webAppLinux

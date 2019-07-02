@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2afe676f-6947-46ef-b5f7-ae93be2c3eb0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/azure-pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/azure-pipelines.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/azure-pipelines.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="47" column="56" lean-forward="true" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+            <state relative-caret-position="243">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -344,8 +345,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/azure-pipelines.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="47" column="56" lean-forward="true" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+        <state relative-caret-position="243">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
