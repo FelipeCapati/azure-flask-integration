@@ -6,7 +6,7 @@
 # This is the completed azure-pipelines.yaml file from previous steps.
 variables:
   ConnectedServiceName: 'DevOps Connection'
-  WebAppName: 'ApiValidationTest'
+  WebAppName: 'AzureFlaskIntegration'
 
 trigger:
 - master
