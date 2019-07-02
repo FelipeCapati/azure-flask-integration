@@ -5,8 +5,8 @@
 
 # This is the completed azure-pipelines.yaml file from previous steps.
 variables:
-  ConnectedServiceName: '<your-service-connection>'
-  WebAppName: 'msdocs-flaskpipelines'
+  ConnectedServiceName: 'DevOps Connection'
+  WebAppName: 'AzureFlaskIntegration'
 
 trigger:
 - master
